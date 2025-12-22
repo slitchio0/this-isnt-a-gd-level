@@ -30,7 +30,7 @@ Removed:
 
 # v.0.1.2-prerelease
 Added:
-- R to launch all the cubes in the air
+- Q to launch all the cubes in the air
 - Added game name, version and a R to restart tooltip
 
 Fixed:
