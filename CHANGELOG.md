@@ -5,7 +5,7 @@ This file will mark all fundamental changes made to the game (as long as I don't
 This is the current state the game is in at the time of adding changelog.
 Will be expanded when new stuff gets made
 
-# v.0.1.0-prerelease (Current Version)
+# v.0.1.0-prerelease
 Added:
 - E to launch into the air
 - Kills you because of a killbox
@@ -28,7 +28,7 @@ Fixed:
 Removed:
 - Nothing
 
-# v.0.1.2-prerelease
+# v.0.1.2-prerelease (Current Version)
 Added:
 - Q to launch all the cubes in the air
 - Added game name, version and a R to restart tooltip
