@@ -6,7 +6,7 @@ This is the current state the game is in at the time of adding changelog.
 Will be expanded when new stuff gets made
 
 # v.0.1.0-prerelease (Current Version)
-Added
+Added:
 - E to launch into the air
 - Kills you because of a killbox
 
@@ -16,5 +16,16 @@ Fixed
 Removed
 Nothing
 
-v.0.1.0 (Planned)
+# v.0.1.1-prerelease
+Added:
+- F to dash
+- Can be useful, will probably kill you
+- Replaced the cubes with 3D models of the GD cube (credits to Khalfanel on sketchfab)
+Fixed:
+- Dashing over the killbox
+Removed:
+- Nothing
+
+
+# v.0.1.0 (Planned)
 First public release
