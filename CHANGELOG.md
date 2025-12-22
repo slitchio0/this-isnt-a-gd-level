@@ -28,6 +28,16 @@ Fixed:
 Removed:
 - Nothing
 
+# v.0.1.2-prerelease
+Added:
+- R to launch all the cubes in the air
+- Added game name, version and a R to restart tooltip
+
+Fixed:
+- Controls changing when camera shifts
+
+Removed:
+- Nothing
 
 # v.0.1.0 (Planned)
 First public release
