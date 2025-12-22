@@ -35,9 +35,10 @@ Added:
 
 Fixed:
 - Controls changing when camera shifts
+- Pause menu music not playing
 
 Removed:
-- Nothing
+- General SFX (were unnecessary + didn't work properly)
 
 # v.0.1.0 (Planned)
 First public release
