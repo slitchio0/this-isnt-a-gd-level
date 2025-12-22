@@ -3,7 +3,7 @@ This Isn't a GD Level is an experimental physics demo I created for a challenge.
 
 The game shouldn't be took seriously. This is a joke game!
 This game is inspired by Geometry Dash.
-Music belongs to Camellia (subject to change)!
+Music belongs to semiquaver on YouTube (will add Camellia if given permission)!
 You play as an Extreme Demon ball. You can use WASD to navigate and your objective is to roll down a slope and eliminate as many cubes as you can.
-Low-poly as of now. Will try and make an actual map instead of planes and make a cool looking extreme demon model with 30 FPS-ish animations (Hopefully).
-README will be expanded further soon, but for now check out the itch.io page for a more expanded-ish description (https://certif1ied.itch.io/thisisntagdlevel)
+AN UNSERIOUS LOW-POLY DEMO I MADE FOR LEARNING!!
+Check the itch.io page out! https://certif1ied.itch.io/thisisntagdlevel
