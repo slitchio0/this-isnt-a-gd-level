@@ -28,7 +28,7 @@ Fixed:
 Removed:
 - Nothing
 
-# v.0.1.2-prerelease (Current Version)
+# v.0.1.2-prerelease
 Added:
 - Q to launch all the cubes in the air
 - Added game name, version and a R to restart tooltip
@@ -40,7 +40,7 @@ Fixed:
 Removed:
 - General SFX (were unnecessary + didn't work properly)
 
-# v.0.1.3-prerelease
+# v.0.1.3-prerelease (Current Version)
 Added:
 - Nothing
 
