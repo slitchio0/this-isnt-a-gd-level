@@ -40,5 +40,15 @@ Fixed:
 Removed:
 - General SFX (were unnecessary + didn't work properly)
 
+# v.0.1.3-prerelease
+Added:
+- Nothing
+
+Fixed:
+- Nothing
+
+Removed:
+- Flamewall (Camellia hasn't given me permission yet, it will be added later if I he responds)
+
 # v.0.1.0 (Planned)
 First public release
