@@ -21,8 +21,10 @@ Added:
 - F to dash
 - Can be useful, will probably kill you
 - Replaced the cubes with 3D models of the GD cube (credits to Khalfanel on sketchfab)
+
 Fixed:
 - Dashing over the killbox
+
 Removed:
 - Nothing
 
