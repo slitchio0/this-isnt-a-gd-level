@@ -50,8 +50,12 @@ Fixed:
 Removed:
 - Flamewall (Camellia hasn't given me permission yet, it will be added later if I he responds)
 
-# v.0.1.4-prerelease (Current Version)
+# v.0.1.4-prerelease
 Windows, Mac and Linux versions have been built. Prepare soon for v.0.1.0
+
+# v.0.1.5-prerelease
+Added back "Flamewall" by Camellia as BGM. Thank you very much for allowing me to include it!
+Fixing some bugs found when I ran the game as an executable..
 
 # v.0.1.0 (Planned)
 First public release
